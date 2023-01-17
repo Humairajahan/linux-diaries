@@ -21,7 +21,7 @@ Now, expose your port to the LAN users.
 ```
 sudo ufw allow <port>
 ```
-Now other LAN users have read access to your directory. Go to the url <ip-address>:<port>. The other users can also download the directory or the individual files as well using the wget command.
+Now other LAN users have read access to your directory. Go to the url *<ip-address:port>*. The other users can also download the directory or the individual files as well using the wget command.
 ```
 wget <ip-address>:<port>/..
 ```
