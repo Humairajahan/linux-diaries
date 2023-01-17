@@ -1,1 +1,1 @@
-# linux-diaries
+# pandoras-linux-box
